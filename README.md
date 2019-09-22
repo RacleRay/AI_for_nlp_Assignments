@@ -10,3 +10,4 @@ Section | Content
 Assignment 4 | **word2vec（Completed）**
 Assignment 6 | **新华社新闻真假分类（Completed）**
 Assignment 7 | **Tensorflow及raw data preprocess，训练集测试集overlap处理（Completed）**
+Assignment 8 | **计算图的topologic排序进行反向求导实现，豆瓣评论情感分析多分类实现(Naive)（Completed）**
